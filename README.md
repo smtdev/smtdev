@@ -1,1 +1,1 @@
-<p align="center"><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino_with_hat.gif" width=50% height=50%></p>
+<p align="center"><img src="dino.gif" width=80% height=80%></p>
