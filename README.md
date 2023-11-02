@@ -1,3 +1,3 @@
-## Hi there! 👋
+## Hi there! 👋👋
 
-![](https://i.imgur.com/uNR0f30.gif)
+[<img src="dino.gif" width="575"/>](dino.gif)
